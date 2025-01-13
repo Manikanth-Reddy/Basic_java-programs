@@ -14,5 +14,6 @@ public class ArraysMerge {
 		for (int ar2 = 0; ar2 < b.length; ar2++)
 			l.add(b[ar2]);
 		System.out.println(l);
+		System.out.printLn("completed")
 	}
 }
